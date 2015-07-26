@@ -49,4 +49,4 @@
 
  * laying
 
-- Finally, the script creates a 2nd, independent tidy data set with the average of each measurement for each activity and each subject. The result is saved as data_set_with_the_averages.txt, a 180x68 data frame. Here ,the first column contains Subject IDs, the second column contains Activity names (see above), and then the averages for each of the 66 attributes are in columns 3...68. There are 30 subjects and 6 activities, thus 180 rows are present in this data set with averages.
+- Finally, the script creates a 2nd, independent tidy data set with the average of each measurement for each activity and each subject. The result is saved as tidy_data_set.txt, a 180x68 data frame. Here ,the first column contains Subject IDs, the second column contains Activity names (see above), and then the averages for each of the 66 attributes are in columns 3...68. There are 30 subjects and 6 activities, thus 180 rows are present in this data set with averages.
