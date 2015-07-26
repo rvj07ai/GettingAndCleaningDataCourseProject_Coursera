@@ -9,7 +9,7 @@
 
 * source('run_analysis.R') to create the tidy data set
 
-* Please use : read.table("tidy_data.txt") to read the data set created. 
+* Please use : read.table("tidy_data_set.txt") to read the data set created. 
 
 ## Contents of the Repository
  * __CodeBook.md__
